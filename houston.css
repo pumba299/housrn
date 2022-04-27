@@ -1,0 +1,14 @@
+body {
+width: 70%;
+margin: auto;
+}
+h1, h2, h3 {
+font-family: sans-serif;
+margin-top: 1.5em;
+}
+h1 {
+    font-size: 32px;
+}
+table {
+    border: 1px black;
+}
